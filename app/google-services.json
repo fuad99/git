@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "188897016853",
+    "firebase_url": "https://rumah-2790e.firebaseio.com",
+    "project_id": "rumah-2790e",
+    "storage_bucket": "rumah-2790e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188897016853:android:131ad3bcc6a8959d",
+        "android_client_info": {
+          "package_name": "com.example.automation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188897016853-ltohacvlgdo0gaunc4tnl96bf8kenhd7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.automation",
+            "certificate_hash": "03ab4cd2c55d284e29bc7961b913bf3452cf1f73"
+          }
+        },
+        {
+          "client_id": "188897016853-tulp14lre6m5fmgfm04i5lmjdn2r5s1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp8t344bxNNSclcOdCqG3URx0M8opK9HY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188897016853-tulp14lre6m5fmgfm04i5lmjdn2r5s1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
